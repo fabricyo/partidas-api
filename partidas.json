@@ -15,5 +15,56 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
+  },
+    {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Mané Garrinha",
+      "imagem": "TODO"
+    },
+    "homeTeam": {
+      "nome": "Portugal",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pt.png"
+    },
+    "awayTeam": {
+      "nome": "Uruguai",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    }
+  },
+    {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Beira Rio",
+      "imagem": "TODO"
+    },
+    "homeTeam": {
+      "nome": "Estados Unidos",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/us.png"
+    },
+    "awayTeam": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+    {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Morumbi",
+      "imagem": "TODO"
+    },
+    "homeTeam": {
+      "nome": "Paraguay",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pa.png"
+    },
+    "awayTeam": {
+      "nome": "Colombia",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+    }
   }
 ]
