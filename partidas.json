@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://diariodorio.com/wp-content/uploads/2020/09/estadio-maracana-2018-1.jpeg.jpg"
     },
     "homeTeam": {
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Mané Garrinha",
-      "imagem": "TODO"
+      "imagem": "https://www.lance.com.br/files/article_main/uploads/2021/05/13/609d890d500e3.jpeg"
     },
     "homeTeam": {
       "nome": "Portugal",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Beira Rio",
-      "imagem": "TODO"
+      "imagem": "https://www.rbsdirect.com.br/imagesrc/25633438.jpg?w=700"
     },
     "homeTeam": {
       "nome": "Estados Unidos",
@@ -54,7 +54,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Morumbi",
-      "imagem": "TODO"
+      "imagem": "https://f.i.uol.com.br/fotografia/2020/10/01/16015805815f762e25e6b05_1601580581_3x2_md.jpg"
     },
     "homeTeam": {
       "nome": "Paraguay",
